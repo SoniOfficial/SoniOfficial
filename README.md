@@ -1,38 +1,36 @@
-
 <p align="center">
   <img src="banner.png" width="100%" alt="SoniOfficial Banner"/>
 </p>
+👋 Хуш омадӣ ба ҷаҳони ман!
 
+Ман SoniOfficial ҳастам. Ин саҳифа ҷойи лоиҳаҳо, таҷрибаҳо ва ғояҳои нави ман мебошад.
 
-<h2 align="center">⚡ ХУШ ОМАДЕД БА GITHUB-И МАН ⚡</h2><p align="center">
-  <b>Барномасоз | Таҳиягари Android | </b>
+🎯 Ҳадафҳои ман
+
+- Сохтани барномаҳои муосир ва босифат.
+- Омӯхтани технологияҳои нав.
+- Табдил додани ғояҳо ба маҳсулоти воқеӣ.
+- Такмил додани малакаҳои барномасозӣ.
+
+📂 Лоиҳаҳои ман
+
+Дар ин ҷо лоиҳаҳои шахсӣ, барномаҳо ва таҷрибаҳои техникии худро ҷойгир мекунам.
+
+💡 Принсипҳои ман
+
+- Сифат аз миқдор муҳимтар аст.
+- Ҳар рӯз як қадам ба пеш.
+- Хато — қисми омӯзиш аст.
+- Ҳеҷ гоҳ аз орзу даст накаш!
+
+📬 Тамос
+
+GitHub: "@SoniOfficial" (https://github.com/SoniOfficial)
+
+---
+
+<p align="center">
+  **Ҳар як идея метавонад ба як лоиҳаи бузург табдил ёбад.**
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00D4FF&height=180&section=header&text=SONI%20OFFICIAL&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</p>👨‍💻 Дар бораи ман
-
-- 👋 Салом! Ман SONI ҳастам.
-- 💻 Ба ҷаҳони барномасозӣ шавқ дорам.
-- 📱 Барномаҳои Android месозам.
-- ⚡ Kotlin ва технологияҳои навро меомӯзам.
-- 🚀 Ҳадафам сохтани маҳсулоти рақамии муосир аст.
-
-🛠️ Технологияҳое, ки истифода мебарам
-
-<p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white"/>
-</p>📊 Омори GitHub-и ман
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SoniOfficial&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
-</p>🎯 Ҳадаф ва шиори ман
-
-«Орзуи бузург дошта бош, оқилона бисоз ва ҳеҷ гоҳ аз омӯзиш даст накаш!»
-
-<p align="center">
-  <b>🇹🇯 Бо муҳаббат аз Тоҷикистон</b>
-  <br/>
-  <b>© 2026 SONI OFFICIAL</b>
+  🇹🇯 Тоҷикистон
 </p>
