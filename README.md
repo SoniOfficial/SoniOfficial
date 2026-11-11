@@ -1,4 +1,8 @@
-👑 SONI OFFICIAL
+
+<p align="center">
+  <img src="banner.png" width="100%" alt="SoniOfficial Banner"/>
+</p>
+
 
 <h2 align="center">⚡ ХУШ ОМАДЕД БА GITHUB-И МАН ⚡</h2><p align="center">
   <b>Барномасоз | Таҳиягари Android | </b>
