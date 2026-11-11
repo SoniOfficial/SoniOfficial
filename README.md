@@ -1,7 +1,7 @@
 👑 SONI OFFICIAL
 
 <h2 align="center">⚡ ХУШ ОМАДЕД БА GITHUB-И МАН ⚡</h2><p align="center">
-  <b>Барномасоз | Таҳиягари Android | Офаринандаи технология</b>
+  <b>Барномасоз | Таҳиягари Android | </b>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00D4FF&height=180&section=header&text=SONI%20OFFICIAL&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>👨‍💻 Дар бораи ман
